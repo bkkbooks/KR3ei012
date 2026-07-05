@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei012_000.yaml, hash: 'sha256:9afefb42683f49ec8162c3d3ab2e5f023dd9d0e7156653edff3631602808cc87'}
+  - {seq: 0, filename: KR3ei012_000.yaml, hash: 'sha256:df130a53f8efb82a59d01314a4b7eea1fed9408cff41c10905e6be80bfdc4967'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei012_000.markers.yaml, hash: 'sha256:9019e156859aac8b3a47d75b54c760f8c688a906197644601ffba8daca851e00'}
+  - {seq: 0, role: markers, filename: assets/KR3ei012_000.markers.yaml, hash: 'sha256:ae5aec43ffb482c6bf4042769e119c6e5f42afbf145e8efc535be6990513b571'}
 table_of_contents:
 - ref:
     seq: 0
@@ -601,7 +601,4 @@ table_of_contents:
   label: 咳嗽論
   type: section
   level: 1
-hash: sha256:f5a2b26a9f3dbd7434318c7bc69979cd4d45fbd3f4e43da2b52358c613498738
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a988cf4df5d4ed205abd736d938aaeac43e05a98e9389e2ac439950628dd5de

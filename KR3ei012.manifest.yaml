@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei012/v1
 canonical_location: https://kanripo.org/bkk/KR3ei012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 婦科秘書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei012_000.yaml, hash: 'sha256:df130a53f8efb82a59d01314a4b7eea1fed9408cff41c10905e6be80bfdc4967'}
+  - {seq: 0, filename: KR3ei012_000.yaml, hash: 'sha256:38b3bddee6bd543b4d08d1886bb91c70b0d0a901b8c08bab68a8a3d2728e16af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei012_000.markers.yaml, hash: 'sha256:ae5aec43ffb482c6bf4042769e119c6e5f42afbf145e8efc535be6990513b571'}
+  - {seq: 0, role: markers, filename: assets/KR3ei012_000.markers.yaml, hash: 'sha256:069f5cbc41a5e0279b38fe1a409367d35046b2091cdef0d41f1c210b54106718'}
 table_of_contents:
 - ref:
     seq: 0
@@ -601,4 +601,7 @@ table_of_contents:
   label: 咳嗽論
   type: section
   level: 1
-hash: sha256:6a988cf4df5d4ed205abd736d938aaeac43e05a98e9389e2ac439950628dd5de
+hash: sha256:fc89c434cfb49f4afde1d3dc54f8ceb1327718679f2837de7d55e040a57172f9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

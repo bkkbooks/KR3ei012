@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ei012_000-jc.yaml, hash: 'sha256:df130a53f8efb82a59d01314a4b7eea1fed9408cff41c10905e6be80bfdc4967'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei012_000-jc.markers.yaml, hash: 'sha256:1e38a2c5153c8fe9607e86baa6fc8b351bde17a8b75c1b421c03d5bad3c81246'}
+  - {seq: 0, role: markers, filename: assets/KR3ei012_000-jc.markers.yaml, hash: 'sha256:8495e4b33f39d28589fa53801018f3304d37d343a82f26a11c16e4d53db9771f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -601,4 +601,4 @@ table_of_contents:
   label: 咳嗽論
   type: section
   level: 1
-hash: sha256:e7265b314c321fc5768caee8918ba90c4392a217a2528fc405e45152c1f4c0b4
+hash: sha256:98478b4aeecfde7e271fc2429af9e8cbea2fafcd7c5f3ba7e2256b43eeea0dea
